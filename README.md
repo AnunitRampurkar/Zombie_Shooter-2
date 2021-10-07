@@ -1,2 +1,3 @@
-# Zombie_Shooter-2
+# Zombie-Shooter-stage-2
+
 - Anunit Rampurkar
